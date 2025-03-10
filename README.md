@@ -7,6 +7,8 @@ Hi there! I'm **Muhammad Ammar Afzal**, a **highly skilled Full Stack Developer*
 ### **💼 Freelancing Experience**  
 As a **Top-Rated Freelancer**, I have successfully completed **225+ projects** on Fiverr & Upwork with **5-star ratings** and worked with **global clients** to build **custom web solutions**, AI-powered applications, and e-commerce platforms. I focus on delivering **robust, efficient, and scalable solutions**, integrating **advanced AI tools, secure authentication, and payment gateways** to enhance business growth.  
 
+---
+
 ### **🛠️ Tech Stack & Expertise**  
 #### **💻 Programming Languages:**  JavaScript (ES6+), TypeScript, Python, PHP, SQL, HTML5, CSS3, Bootstrap, jQuery  
 
@@ -24,21 +26,20 @@ As a **Top-Rated Freelancer**, I have successfully completed **225+ projects** o
 
 #### **🎨 UI/UX Design:**  Figma, Adobe XD, Canva, Photoshop, Wireframing, Prototyping  
 
-#### **🛠️ Version Control & Tools:**  Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code  
+#### **🛠️ Version Control & Tools:**  Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code     
 
-
+---
 
 ### 🚀 **Let’s collaborate and build something amazing!**  
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarafzal.webdeveloper@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ammarDeveloper400)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-afzal-codex)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/jjG61Z7)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017ca17ee2b3846a52)
 
-### 📫 Let's Connect!  
-🔗 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ammarDeveloper400)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-afzal-codex)  
-🔗 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/jjG61Z7)
-🔗 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017ca17ee2b3846a52)  
 
 
-### 📩 **Reach out:** ammarafzal.webdeveloper@gmail.com
 
 
 
