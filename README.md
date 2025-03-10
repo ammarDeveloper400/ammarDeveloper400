@@ -8,32 +8,23 @@ Hi there! I'm **Muhammad Ammar Afzal**, a **highly skilled Full Stack Developer*
 As a **Top-Rated Freelancer**, I have successfully completed **225+ projects** on Fiverr & Upwork with **5-star ratings** and worked with **global clients** to build **custom web solutions**, AI-powered applications, and e-commerce platforms. I focus on delivering **robust, efficient, and scalable solutions**, integrating **advanced AI tools, secure authentication, and payment gateways** to enhance business growth.  
 
 ### **🛠️ Tech Stack & Expertise**  
-#### **💻 Programming Languages:**  
-JavaScript (ES6+), TypeScript, Python, PHP, SQL, HTML5, CSS3, Bootstrap, jQuery  
+#### **💻 Programming Languages:**  JavaScript (ES6+), TypeScript, Python, PHP, SQL, HTML5, CSS3, Bootstrap, jQuery  
 
-#### **🌐 Front-End Development:**  
-React.js, Next.js, Angular, Redux, MUI, Ant Design, Tailwind CSS, Bootstrap, UI/UX (Figma)  
+#### **🌐 Front-End Development:**  React.js, Next.js, Angular, Redux, MUI, Ant Design, Tailwind CSS, Bootstrap, UI/UX (Figma)  
 
-#### **⚙️ Back-End Development:**  
-Node.js, Express.js, PHP (CodeIgniter, Laravel), NestJS  
+#### **⚙️ Back-End Development:**  Node.js, Express.js, PHP (CodeIgniter, Laravel), NestJS  
 
-#### **🗄️ Database Management:**  
-MongoDB, MySQL, PostgreSQL, Supabase, Firebase  
+#### **🗄️ Database Management:**  MongoDB, MySQL, PostgreSQL, Supabase, Firebase  
 
-#### **🤖 AI & Machine Learning:**  
-OpenAI API, Gemini, DALL·E, NLP  
+#### **🤖 AI & Machine Learning:**  OpenAI API, Gemini, DALL·E, NLP  
 
-#### **☁️ DevOps & Cloud Services:**  
-AWS (EC2, S3, Amplify, Route53, Cloudflare, Lambda), Firebase, DigitalOcean, Docker, VPS/Shared Hostings (Hostinger, GoDaddy)  
+#### **☁️ DevOps & Cloud Services:**  AWS (EC2, S3, Amplify, Route53, Cloudflare, Lambda), Firebase, DigitalOcean, Docker, VPS/Shared Hostings (Hostinger, GoDaddy)  
 
-#### **💳 Payment & API Integrations:**  
-Stripe, PayPal, Yoomoney, Airwallex, Klarna, CoinGecko API, Google Cloud API, Instagram API, Facebook API, Persona, Yandex, GOJs, Reactflow, Shotstack, Intercom, Sendgrid, Steam, Price Empire, Coinbase, Amadeus  
+#### **💳 Payment & API Integrations:**  Stripe, PayPal, Yoomoney, Airwallex, Klarna, CoinGecko API, Google Cloud API, Instagram API, Facebook API, Persona, Yandex, GOJs, Reactflow, Shotstack, Intercom, Sendgrid, Steam, Price Empire, Coinbase, Amadeus  
 
-#### **🎨 UI/UX Design:**  
-Figma, Adobe XD, Canva, Photoshop, Wireframing, Prototyping  
+#### **🎨 UI/UX Design:**  Figma, Adobe XD, Canva, Photoshop, Wireframing, Prototyping  
 
-#### **🛠️ Version Control & Tools:**  
-Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code  
+#### **🛠️ Version Control & Tools:**  Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code  
 
 🚀 **Let’s collaborate and build something amazing!**  
 
