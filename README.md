@@ -1,22 +1,48 @@
-### **🚀 Full Stack Developer | AI Enthusiast | Freelancer**  
+### **About Me**  
 
-Hi there! I'm **Muhammad Ammar Afzal**, a highly skilled **Full Stack Developer** with over **six years of experience** in **MEAN/MERN stacks, PHP, and AI-driven applications**. I specialize in designing, developing, and deploying **scalable web applications, APIs, and complex business platforms** with a strong focus on **performance, security, and user experience**.  
+🚀 **Full Stack Developer | AI Enthusiast | Freelancer**  
 
-### **💻 What I Do**  
-✔️ **Full Stack Web Development** – React.js, Next.js, Angular, Node.js, Express.js, PHP (Laravel, CodeIgniter)  
-✔️ **AI & Machine Learning** – NLP, OpenAI API, BERT, Spacy, TensorFlow  
-✔️ **Cloud & DevOps** – AWS, Firebase, DigitalOcean, Docker, Cloudflare  
-✔️ **Database Management** – MongoDB, MySQL, PostgreSQL, Firebase  
-✔️ **UI/UX Design** – Figma, Adobe XD, Canva, Wireframing, Prototyping  
-✔️ **Payment & API Integrations** – Stripe, PayPal, Yoomoney, Google APIs, Instagram API  
+Hi there! I'm **Muhammad Ammar Afzal**, a **highly skilled Full Stack Developer** with **6+ years of experience** in **MEAN/MERN stacks, PHP, and AI-driven applications**. I specialize in designing and developing **scalable web applications, APIs, and business platforms** while ensuring **high performance, security, and seamless user experiences**.  
 
-### **🌍 Freelancing Experience**  
-I have successfully completed **225+ projects on Fiverr with a 5-star rating**, helping businesses and startups build **custom web solutions, AI-powered platforms, and secure e-commerce applications**. My ability to **understand client needs, deliver high-quality code, and optimize solutions for performance and scalability** has allowed me to thrive in the freelancing world.  
+### **💼 Freelancing Experience**  
+As a **Top-Rated Freelancer**, I have successfully completed **225+ projects** on Fiverr & Upwork with **5-star ratings** and worked with **global clients** to build **custom web solutions**, AI-powered applications, and e-commerce platforms. I focus on delivering **robust, efficient, and scalable solutions**, integrating **advanced AI tools, secure authentication, and payment gateways** to enhance business growth.  
 
-### **📫 Let's Connect!**  
-🔗 GitHub: https://github.com/ammarDeveloper400(#)  
-🔗 LinkedIn: https://www.linkedin.com/in/ammar-afzal-codex/(#)  
-🔗 Fiverr: https://www.fiverr.com/s/jjG61Z7 (#)  
-🔗 Upwork: https://www.upwork.com/freelancers/~017ca17ee2b3846a52?mp_source=share (#)  
+### **🛠️ Tech Stack & Expertise**  
+#### **💻 Programming Languages:**  
+JavaScript (ES6+), TypeScript, Python, PHP, SQL, HTML5, CSS3, Bootstrap, jQuery  
 
-🚀 **Always open to new opportunities and collaborations!**  
+#### **🌐 Front-End Development:**  
+React.js, Next.js, Angular, Redux, MUI, Ant Design, Tailwind CSS, Bootstrap, UI/UX (Figma)  
+
+#### **⚙️ Back-End Development:**  
+Node.js, Express.js, PHP (CodeIgniter, Laravel), NestJS  
+
+#### **🗄️ Database Management:**  
+MongoDB, MySQL, PostgreSQL, Supabase, Firebase  
+
+#### **🤖 AI & Machine Learning:**  
+OpenAI API, Gemini, DALL·E, NLP  
+
+#### **☁️ DevOps & Cloud Services:**  
+AWS (EC2, S3, Amplify, Route53, Cloudflare, Lambda), Firebase, DigitalOcean, Docker, VPS/Shared Hostings (Hostinger, GoDaddy)  
+
+#### **💳 Payment & API Integrations:**  
+Stripe, PayPal, Yoomoney, Airwallex, Klarna, CoinGecko API, Google Cloud API, Instagram API, Facebook API, Persona, Yandex, GOJs, Reactflow, Shotstack, Intercom, Sendgrid, Steam, Price Empire, Coinbase, Amadeus  
+
+#### **🎨 UI/UX Design:**  
+Figma, Adobe XD, Canva, Photoshop, Wireframing, Prototyping  
+
+#### **🛠️ Version Control & Tools:**  
+Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code  
+
+🚀 **Let’s collaborate and build something amazing!**  
+
+🔗 **Portfolio & Work:**
+
+🔗 LinkedIn: https://www.linkedin.com/in/ammar-afzal-codex/ 
+🔗 Fiverr: https://www.fiverr.com/s/jjG61Z7
+🔗 Upwork: https://www.upwork.com/freelancers/~017ca17ee2b3846a52?mp_source=share
+
+📩 **Reach out:** ammarafzal400@gmail.com  
+
+Feel free to personalize it further based on your preferences! Let me know if you'd like any refinements. 🚀
