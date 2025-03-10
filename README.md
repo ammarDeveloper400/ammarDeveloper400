@@ -30,12 +30,22 @@ As a **Top-Rated Freelancer**, I have successfully completed **225+ projects** o
 
 ### 🚀 **Let’s collaborate and build something amazing!**  
 
-#### **Portfolio & Work:**
 
-🔗 LinkedIn: https://www.linkedin.com/in/ammar-afzal-codex/ 
-🔗 Fiverr: https://www.fiverr.com/s/jjG61Z7 
-🔗 Upwork: https://www.upwork.com/freelancers/~017ca17ee2b3846a52?mp_source=share 
+### 📫 Let's Connect!  
+🔗 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ammarDeveloper400)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-afzal-codex)  
+🔗 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/jjG61Z7)
+🔗 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017ca17ee2b3846a52)  
+
 
 ### 📩 **Reach out:** ammarafzal.webdeveloper@gmail.com
+
+
+
+
+
+
+
+
   
 
