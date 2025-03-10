@@ -26,14 +26,16 @@ As a **Top-Rated Freelancer**, I have successfully completed **225+ projects** o
 
 #### **🛠️ Version Control & Tools:**  Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code  
 
-🚀 **Let’s collaborate and build something amazing!**  
 
-🔗 **Portfolio & Work:**
+
+### 🚀 **Let’s collaborate and build something amazing!**  
+
+#### **Portfolio & Work:**
 
 🔗 LinkedIn: https://www.linkedin.com/in/ammar-afzal-codex/ 
-🔗 Fiverr: https://www.fiverr.com/s/jjG61Z7
-🔗 Upwork: https://www.upwork.com/freelancers/~017ca17ee2b3846a52?mp_source=share
+🔗 Fiverr: https://www.fiverr.com/s/jjG61Z7 
+🔗 Upwork: https://www.upwork.com/freelancers/~017ca17ee2b3846a52?mp_source=share 
 
-📩 **Reach out:** ammarafzal400@gmail.com  
+### 📩 **Reach out:** ammarafzal.webdeveloper@gmail.com
+  
 
-Feel free to personalize it further based on your preferences! Let me know if you'd like any refinements. 🚀
